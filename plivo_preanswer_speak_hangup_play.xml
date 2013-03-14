@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+	 <PreAnswer>
+        <Play>URL to a .mp3 or .WAV file</Play>
+    </PreAnswer>
+    <Speak voice="">  Example text: This is an example text. You may drink beer or soft drinks, if you feel like to.</Speak>
+    <Hangup schedule=""/>
+	<Speak voice=""> Example text: This call will be ended in a minute. Before then, you can enjoy the soundtrack from the Legend of Zelda.</Speak>
+	<Play loop="">URL to a .mp3 or .WAV file</Play>
+</Response>

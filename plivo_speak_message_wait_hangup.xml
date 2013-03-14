@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+	<Speak>Example: A message shall be sent in any second. Be prepared.</Speak>
+	<Message src="" dst="">Hi from Plivo. Hurray!</Message>
+	<Speak>Example: You can say anything for the next 7 seconds.</Speak>
+	<Wait length="" />
+	<Hangup schedule="" />
+	<Speak>Example: And by the way this call will be ended in 30 seconds.</Speak>
+</Response>
