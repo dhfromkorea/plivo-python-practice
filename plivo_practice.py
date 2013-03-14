@@ -1,7 +1,8 @@
 import plivo
 import settings
 
-p = plivo.RestAPI(auth_id, auth_token)
+p = plivo.RestAPI(settings.AUTH_ID, settings.AUTH_TOKEN)
+
 
 # make an outbound call 
 # and speak according to plivo_speak.xml 
